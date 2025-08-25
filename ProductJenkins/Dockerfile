@@ -2,7 +2,8 @@
  
 WORKDIR /src
  
-COPY ["ProductJenkins.csproj", "."]
+COPY ["ProductJenkins/ProductJenkins.csproj", "."]
+
  
 RUN dotnet restore "ProductJenkins.csproj"
  
