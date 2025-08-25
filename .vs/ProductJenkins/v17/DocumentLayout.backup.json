@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Jenkins_Projects\\ProductJenkins\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|solutionrelative:productjenkins\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|solutionrelative:productjenkins\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|solutionrelative:productjenkins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|solutionrelative:productjenkins\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|solutionrelative:productjenkins\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|solutionrelative:productjenkins\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|solutionrelative:productjenkins\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|solutionrelative:productjenkins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1A5188C-50B2-4F9B-AB53-9B860798B8C0}|ProductJenkins\\ProductJenkins.csproj|d:\\jenkins_projects\\productjenkins\\productjenkins\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,8 +61,46 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductJenkins\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductJenkins\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T10:02:23.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductJenkins\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductJenkins\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T10:02:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "ProductJenkins\\Views\\Product\\Delete.cshtml",
@@ -67,25 +113,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "ProductJenkins\\Views\\Product\\Create.cshtml",
               "ToolTip": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "ProductJenkins\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T10:00:01.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ProductJenkins\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\wwwroot\\css\\site.css*",
-              "RelativeToolTip": "ProductJenkins\\wwwroot\\css\\site.css*",
+              "ToolTip": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProductJenkins\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAIsAAAAAAAAAAAAAwJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-08-25T09:59:16.731Z",
@@ -93,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Program.cs",
               "RelativeDocumentMoniker": "ProductJenkins\\Program.cs",
@@ -106,12 +152,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductJenkins\\Models\\Product.cs",
-              "ToolTip": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Models\\Product.cs*",
-              "RelativeToolTip": "ProductJenkins\\Models\\Product.cs*",
+              "ToolTip": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Models\\Product.cs",
+              "RelativeToolTip": "ProductJenkins\\Models\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T09:58:00.696Z",
@@ -119,28 +165,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductJenkins\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Jenkins_Projects\\ProductJenkins\\ProductJenkins\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductJenkins\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwEcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T09:57:30.297Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         },
